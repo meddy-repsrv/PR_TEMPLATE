@@ -3,10 +3,10 @@
 # Overview
 This PR is to resolve  [US77657]() ...
 
-## Details [Backend]
+## Details
 
 
-## Acceptance Criteria[Frontend & Backend]
+## Acceptance Criteria
 
 
 ## Additional Details
